@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/codingknite/codingknite/main/programming.gif" alt="">
+
 # 💫 About Me:
 💫 About Me:<br>💀 Hi, I'm an aspiring cybersecurity specialist.<br>🔭 I’m currently C.E.H | Ec-council.<br>👽 Skills like:- Wapt,Wpt,Npt,Vapt,front-end dev,CCNA.<br>🧑‍💻 Like to Solve and Create CTF challenges.<br>⚡ Looking to Explore and gain more knowledge on Cyber security...<br>😄 Like to Play Fps games to Improve Problem-Solving & Strategic Thinking,Teamwork&Communication skills, Increased Focus&Concentration.<br>🤔 Fun fact: existing.
 
